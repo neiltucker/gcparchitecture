@@ -1,0 +1,6 @@
+### Query news articles 
+Select url, title
+From bigquery-public-data.hacker_news.stories
+Where title like "%python%" AND LENGTH(url) > 0
+LIMIT 10
+
