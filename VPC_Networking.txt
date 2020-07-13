@@ -1,0 +1,19 @@
+### VPC Networking
+### These exercises should be done only in QWIK Labs
+
+Networking Project:
+
+1.  Delete all existing VPC Networks
+
+2.  Create two VPC Networks (Custom or Auto mode)
+
+3.  Create two instances in each network using only internal IPs
+
+4.  Verify that each instance is only able to communicate with the other instance in its own VPC
+
+5.  Without assigning external IPs, configure all four instances with access to the Internet
+
+6.  Verify Internet connectivity for each instance
+
+
+
