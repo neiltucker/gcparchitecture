@@ -15,7 +15,6 @@ export MYSQL=$(gcloud sql instances create $SERVER --database-version=MYSQL_5_7 
 export MYSQLIP=$(gcloud sql instances describe $SERVER --format="value(ipAddresses.ipAddress)")
 export MYLOCALIP="$(dig +short myip.opendns.com @resolver1.opendns.com)"
 gcloud sql instances describe $SERVER > sqlinstance.txt
-# gcloud sql connect nrt1 --user=root --quiet
 
 # Assign permissions to Service Account Email
 export SAEMAIL=$(grep -i -o '[A-Z0-9._%+-]\+@[A-Z0-9.-]\+\.[A-Z]\{2,4\}' sqlinstance.txt)
@@ -39,6 +38,7 @@ mysql --host=$MYSQLIP --user=root  --password=$PASSWORD --database=$DATABASE --e
 # mysql --host=$MYSQLIP --user=root --password=$PASSWORD --verbose --file newuser.sql
 
 # Remove Header in CSV File
+# The file must be located in the local folder of the terminal session
 cp $FILE $FILE".old" -f
 sed '1d' $FILE".old" > $FILE
 gsutil rm $BUCKETFILE
@@ -50,14 +50,13 @@ cp $FILE".old" $FILE -f
 gcloud sql import csv $SERVER $BUCKETFILE --database=$DATABASE --table=$TABLE --quiet
 
 # Check Data
-mysql --host=$MYSQLIP --user=root  --password=$PASSWORD --execute "select * from db1.employees
-order by email desc
-limit 100;"
-
-
+mysql --host=$MYSQLIP --user=root  --password=$PASSWORD --execute "select * from db1.employees order by email desc limit 100;"
+# gcloud sql connect $SERVER --user=root --quiet
+# use db1
+# select * from db1.employees order by email desc limit 100;
 
 # End
-# BigQuery: SELECT * FROM EXTERNAL_QUERY('dataproc1-248508.us.nrtmysql004', '''SELECT email,deptid,salary FROM employees''');
+# BigQuery: SELECT * FROM EXTERNAL_QUERY(`bigquery-public-data.ml_datasets.census_adult_income`, '''SELECT * FROM `bigquery-public-data.ml_datasets.census_adult_income` ''');
 
 
 
