@@ -1,10 +1,9 @@
 ### Cloud Storage
 ### These exercises should be done only in QWIK Labs
 
-Perform these actions using the Google Cloud Console
-Create two Buckets (A unique name is required for each one):
+Perform the first steps using the Google Cloud Console:
 
-1.  Upload two text files to the first bucket.
+1.  Create a Multi-Regional Bucket and upload two text files to it
 
 2.  Rename one file to file1.txt and the second to file2.txt
 
@@ -14,5 +13,9 @@ Create two Buckets (A unique name is required for each one):
 
 5.  Rename both files so they have csv extensions
 
-6.  Perform steps 1 to 5 again, this time, using the Cloud Shell
+6.  Try to change the bucket to be Regional instead of Multi-Regional
+
+7.  Why did the previous step fail?
+
+8.  Perform steps 1 to 5 again, this time, using the Cloud Shell
 
