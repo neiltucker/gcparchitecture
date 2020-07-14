@@ -1,0 +1,11 @@
+### Cloud SQL
+### These exercises should be done only in QWIK Labs
+### Download the employees.csv file from the class repository (https://github.com/neiltucker/gcparchitecture)
+Create a Cloud SQL MySQL database and load data into it:
+
+1.  Open the mysql_connect2.sh file in a text editor and read through the code
+
+2.  Use the information in the script to create a Cloud SQL database 
+
+3.  Use the script to create a database and table and load data into the table
+
