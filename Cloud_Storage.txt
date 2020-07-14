@@ -17,5 +17,9 @@ Perform the first steps using the Google Cloud Console:
 
 7.  Why did the previous step fail?
 
-8.  Perform steps 1 to 5 again, this time, using the Cloud Shell
+8.  Create a Regional Bucket 
+
+9.  Move the files from the Multi-Regional to the Regional Bucket
+
+10. Perform steps 1 to 5 again, this time, using the Cloud Shell
 
