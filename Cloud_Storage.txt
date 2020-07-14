@@ -1,0 +1,18 @@
+### Cloud Storage
+### These exercises should be done only in QWIK Labs
+
+Perform these actions using the Google Cloud Console
+Create two Buckets (A unique name is required for each one):
+
+1.  Upload two text files to the first bucket.
+
+2.  Rename one file to file1.txt and the second to file2.txt
+
+3.  Create a folder named txt
+
+4.  Move the files to the csv folder
+
+5.  Rename both files so they have csv extensions
+
+6.  Perform steps 1 to 5 again, this time, using the Cloud Shell
+

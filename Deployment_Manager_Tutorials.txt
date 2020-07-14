@@ -1,0 +1,12 @@
+### Deployment Manager Tutorials
+### These exercises can only be done in a personal or business account because an organization is required.
+### Carefully watch your billing costs if you choose to try this lab.  You are responsible for all cost.
+
+This exercise uses pre-built tutorials on Google Cloud to learn deployment manager.
+
+There are five options.  Choose the one that best matches your needs and budget:
+
+https://cloud.google.com/deployment-manager/docs/tutorials
+
+
+

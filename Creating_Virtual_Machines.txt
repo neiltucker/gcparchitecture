@@ -21,5 +21,3 @@ Create two instances.  One using the Console and the other using the Cloud Shell
 
 9.  What will happen to the boot disks when these instances are deleted?
 
-
-
