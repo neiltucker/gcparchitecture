@@ -1,4 +1,6 @@
-# Dataset for table
+### Use BigQuery ML features
+### Create a dataset names dataset1 before beginning
+
 SELECT *
 FROM `bigquery-public-data.ml_datasets.census_adult_income`
 LIMIT 1000;
