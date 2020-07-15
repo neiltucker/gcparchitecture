@@ -1,0 +1,18 @@
+Jupyter on the web with Colab
+https://www.youtube.com/watch?v=yEIc9z-Ad3k
+
+Loading data into BigQuery
+https://www.youtube.com/watch?v=Abzj-Vyhi74&list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS&index=4
+
+Simplify routing with VPC Peering
+https://www.youtube.com/watch?v=4UQacCynuFU&t=53s
+
+BigQuery ML (Yufeng Guo)
+https://www.youtube.com/watch?v=6Kska20zQO4
+
+Choosing the right load balancer (Priyanka Vergadia & Stephanie Wong)
+https://www.youtube.com/watch?v=gdeOeu4E7eQ
+
+Dynamic Routing with Cloud Router: (Stephanie Wong)
+https://www.youtube.com/watch?v=K_xb_j46YOk
+
