@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=Abzj-Vyhi74&list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px3
 BigQuery ML: (Yufeng Guo)
 https://www.youtube.com/watch?v=6Kska20zQO4
 
-Choosing the right load balancer: (Priyanka Vergadia & Stephanie Wong)
-https://www.youtube.com/watch?v=gdeOeu4E7eQ
+Protect Your Google Cloud Instances with Firewall Rules (Stephanie Wong)
+https://youtu.be/HTVV9YzGw5k
 
 Enable VM Communication with IP Addresses: (Stephanie Wong)
 https://www.youtube.com/watch?v=QUb86NiMZ8k
@@ -59,6 +59,10 @@ https://www.youtube.com/watch?v=cKaryf7qp9w
 
 Centralize control with Shared VPC: (Stephanie Wong)
 https://www.youtube.com/watch?v=WotV3D01tJA
+
+Choosing the right load balancer: (Priyanka Vergadia & Stephanie Wong)
+https://www.youtube.com/watch?v=gdeOeu4E7eQ
+
 
 
 
