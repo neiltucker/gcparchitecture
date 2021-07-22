@@ -72,4 +72,13 @@ https://www.youtube.com/watch?v=z-caqPtEw58
 Immutable infrastructure [Cloud Build / Deployment Manager]: (Jennifer Thomas)
 https://www.youtube.com/watch?v=78pkMNXDAjk
 
+What is Dataflow? (Priyanka Vergadia)
+https://www.youtube.com/watch?v=KalJ0VuEM7s
+
+Creating ETL Jobs with DataPrep: (Lorin Price & Gautami Nadkarni)
+https://www.youtube.com/watch?v=DEh3pZIgJ9k
+
+
+
+
 
