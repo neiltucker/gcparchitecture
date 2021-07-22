@@ -63,7 +63,13 @@ https://www.youtube.com/watch?v=WotV3D01tJA
 Choosing the right load balancer: (Priyanka Vergadia & Stephanie Wong)
 https://www.youtube.com/watch?v=gdeOeu4E7eQ
 
+Infrastructure as code with Terraform and Cloud Run: (Martin Omander & Katie McLaughlin)
+https://www.youtube.com/watch?v=Ce93fpQrKCk
 
+Infrastructure as code [Deployment Manager]: (Stephanie Wong)
+https://www.youtube.com/watch?v=z-caqPtEw58
 
+Immutable infrastructure [Cloud Build / Deployment Manager]: (Jennifer Thomas)
+https://www.youtube.com/watch?v=78pkMNXDAjk
 
 
