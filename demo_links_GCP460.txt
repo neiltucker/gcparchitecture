@@ -1,0 +1,81 @@
+### Demo Links:  GCP-460
+
+Jupyter on the web with Colab: (Yufeng Guo)
+https://www.youtube.com/watch?v=yEIc9z-Ad3k
+
+Loading data into BigQuery: (Nick Orlove)
+https://www.youtube.com/watch?v=Abzj-Vyhi74&list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS&index=4
+
+BigQuery ML: (Yufeng Guo)
+https://www.youtube.com/watch?v=6Kska20zQO4
+
+Protect Your Google Cloud Instances with Firewall Rules (Stephanie Wong)
+https://youtu.be/HTVV9YzGw5k
+
+Enable VM Communication with IP Addresses: (Stephanie Wong)
+https://www.youtube.com/watch?v=QUb86NiMZ8k
+
+Protect Your Network with Cloud NAT: (Stephanie Wong)
+https://www.youtube.com/watch?v=bmaarG0IkH8
+
+Billing Administration: (Philipp Maier)
+https://storage.googleapis.com/cloud-training/archinfra/v2.0/demos/Demo_billing_administration.mp4
+
+Introduction to Cloud IAM: (Terrence Ryan)
+https://www.youtube.com/watch?v=96HlT4f2AUU
+
+Bucket options in Cloud Storage: (Jenny Brown)
+https://www.youtube.com/watch?v=8DMOJ6Lgm7s
+
+Authentication controls for Cloud Storage: (Jenny Brown)
+https://www.youtube.com/watch?v=0HSEQUyiexU
+
+Google Cloud Encryption at Rest: (Monica)
+https://www.youtube.com/watch?v=Svz2KHE1mdM
+
+Google Cloud Encryption in Transit: (Monica)
+https://www.youtube.com/watch?v=Dzju5aALHRQ
+
+Getting Started with Cloud SQL for MySQL: (Aastha Bhardwaj)
+https://www.youtube.com/watch?v=BQlQ-BTMR1U
+
+Memorystore in a minute: (Priyanka Vergadia)
+https://www.youtube.com/watch?v=ra3Vow3-HHg
+
+Best practices for Cloud Operations in the enterprise: (Yuri Grinshteyn - Stack Doctor)
+https://youtu.be/rMOXWc5BUkc
+
+Error Reporting: (Alexis Moussine-Pouchkine)
+https://www.youtube.com/watch?v=GANi9eRxhHs
+
+Dynamic Routing with Cloud Router: (Stephanie Wong)
+https://www.youtube.com/watch?v=K_xb_j46YOk
+
+Simplify routing with VPC Peering: (Stephanie Wong)
+https://youtu.be/4UQacCynuFU
+
+Hybrid Networking: Google Cloud Interconnect: (Stephanie Wong)
+https://www.youtube.com/watch?v=cKaryf7qp9w
+
+Centralize control with Shared VPC: (Stephanie Wong)
+https://www.youtube.com/watch?v=WotV3D01tJA
+
+Choosing the right load balancer: (Priyanka Vergadia & Stephanie Wong)
+https://www.youtube.com/watch?v=gdeOeu4E7eQ
+
+Infrastructure as code with Terraform and Cloud Run: (Martin Omander & Katie McLaughlin)
+https://www.youtube.com/watch?v=Ce93fpQrKCk
+
+Infrastructure as code [Deployment Manager]: (Stephanie Wong)
+https://www.youtube.com/watch?v=z-caqPtEw58
+
+Immutable infrastructure [Cloud Build / Deployment Manager]: (Jennifer Thomas)
+https://www.youtube.com/watch?v=78pkMNXDAjk
+
+What is Dataflow? (Priyanka Vergadia)
+https://www.youtube.com/watch?v=KalJ0VuEM7s
+
+Creating ETL Jobs with DataPrep: (Lorin Price & Gautami Nadkarni)
+https://www.youtube.com/watch?v=DEh3pZIgJ9k
+
+
